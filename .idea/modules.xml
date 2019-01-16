@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LightSensor.iml" filepath="$PROJECT_DIR$/LightSensor.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nimbuzz.iml" filepath="$PROJECT_DIR$/nimbuzz.iml" />
     </modules>
   </component>
 </project>
